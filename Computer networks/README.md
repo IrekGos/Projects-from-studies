@@ -1,0 +1,1 @@
+My task was to write a traceroute program that displays the IP addresses of the routers on the path to the destination IP address. A detailed description of the assignment can be found in the file `p1.pdf` (in polish).

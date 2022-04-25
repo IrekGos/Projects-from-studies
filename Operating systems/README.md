@@ -1,0 +1,1 @@
+My task was to implement some parts of a system shell. The skeleton of the solution was written by the lecturer. The code fragments that were written by me are marked as TODO. A detailed description of the assignment can be found in the file `so20_project-shell.pdf` (in polish).

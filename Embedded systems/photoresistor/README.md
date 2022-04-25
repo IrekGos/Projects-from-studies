@@ -1,0 +1,1 @@
+My task was to write a program that measures the resistance of a photoresistor using interrupts and using ADC Auto Trigger mode. Detailed description of the assignment can be found in the `lista5.pdf` file (in polish).

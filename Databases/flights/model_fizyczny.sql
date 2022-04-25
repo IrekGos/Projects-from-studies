@@ -1,0 +1,6 @@
+CREATE TABLE Flights
+(id text NOT NULL,
+iatacode VARCHAR(3) NOT NULL REFERENCES Airport(IATACode),
+takeoff_time TIMESTAMP WITH TIME ZONE,
+landing_time TIMESTAMP WITH TIME ZONE,
+CONSTRAINT FlightsKey PRIMARY KEY (id, iatacode));

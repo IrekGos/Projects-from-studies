@@ -1,0 +1,28 @@
+FLIGHT
+{"function":"flight", "params":{"id":"1", "airports":[{"airport":"WAW","takeoff_time":"2021-06-01 15:26:44.229109+02"},{"airport":"WRO","takeoff_time":"2021-06-01 16:46:44.229109+02", "landing_time":"2021-06-01 16:26:44.229109+02"}, {"airport":"POZ","takeoff_time":"2021-06-01 18:06:44.229109+02","landing_time":"2021-06-01 17:46:44.229109+02"}, {"airport":"KRK","takeoff_time":"2021-06-01 19:46:44.229109+02", "landing_time":"2021-06-01 19:06:44.229109+02"}, {"airport":"LCJ", "landing_time":"2021-06-01 20:46:44.229109+02"}]}}
+
+{"function":"flight", "params":{"id":"2", "airports":[{"airport":"WRO","takeoff_time":"2021-05-03 20:26:44.229109+02"},{"airport":"GDN", "landing_time":"2021-05-03 22:46:44.229109+02"}]}}
+
+{"function":"flight", "params":{"id":"3", "airports":[{"airport":"KTW","takeoff_time":"2021-05-20 20:26:44.229109+02"},{"airport":"WRO","takeoff_time":"2021-05-20 21:46:44.229109+02", "landing_time":"2021-05-20 21:26:44.229109+02"}, {"airport":"SZZ", "landing_time":"2021-05-20 22:46:44.229109+02"}]}}
+
+{"function":"flight", "params":{"id":"4", "airports":[{"airport":"WRO","takeoff_time":"2021-06-03 20:26:44.229109+02"},{"airport":"RZE", "landing_time":"2021-06-03 22:46:44.229109+02"}]}}
+
+{"function":"flight", "params":{"id":"5", "airports":[{"airport":"GDN","takeoff_time":"2021-06-20 20:26:44.229109+02"},{"airport":"WRO","takeoff_time":"2021-06-20 21:46:44.229109+02", "landing_time":"2021-06-20 21:26:44.229109+02"}, {"airport":"KRK","takeoff_time":"2021-06-20 23:26:44.229109+02", "landing_time":"2021-06-20 22:46:44.229109+02"},{"airport":"RZE", "landing_time":"2021-06-21 00:46:44.229109+02"}]}}
+
+{"function":"flight", "params":{"id":"6", "airports":[{"airport":"GLA","takeoff_time":"2021-06-20 20:26:44.229109+02"},{"airport":"MAN","takeoff_time":"2021-06-20 21:46:44.229109+02", "landing_time":"2021-06-20 21:26:44.229109+02"}, {"airport":"NCL","takeoff_time":"2021-06-20 23:26:44.229109+02", "landing_time":"2021-06-20 22:46:44.229109+02"},{"airport":"LHR", "landing_time":"2021-06-21 00:46:44.229109+02"}]}}
+
+
+LIST_FLIGHTS
+{"function":"list_flights", "params":{"id":"1"}}
+{"function":"list_flights", "params":{"id":"2"}}
+{"function":"list_flights", "params":{"id":"3"}}
+{"function":"list_flights", "params":{"id":"4"}}
+{"function":"list_flights", "params":{"id":"5"}}
+{"function":"list_flights", "params":{"id":"6"}}
+
+
+LIST_AIRPORT
+{"function":"list_airport", "params":{"iatacode":"WRO", "n":"5"}}
+{"function":"list_airport", "params":{"iatacode":"WRO", "n":"3"}}
+{"function":"list_airport", "params":{"iatacode":"KRK", "n":"3"}}
+{"function":"list_airport", "params":{"iatacode":"KRK", "n":"1"}}
