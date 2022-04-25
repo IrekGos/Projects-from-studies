@@ -1,0 +1,1 @@
+This repository contains several projects or assignments from selected four subjects that I completed during my engineering studies. Each folder contains its own `README.md` file with a short description about the particular task.
